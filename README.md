@@ -15,3 +15,11 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
 python -m http.server 8888
 
 http://localhost:8888
+
+## Formatting Ideas
+
+I just want to be able to write a paragraph that's indented and compliant with typical academic requirements
+
+    Test this message is indented in Markdown. how far does this block extend? I just wanted one line
+
+so that the formatting may be corect? Except that it's not.... which is kind of a problem for me.
